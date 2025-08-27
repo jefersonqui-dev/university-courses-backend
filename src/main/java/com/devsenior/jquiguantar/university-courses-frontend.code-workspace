@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../university-courses-frontend"
+		},
+		{
+			"name": "university-courses-backend",
+			"path": "../../../../../.."
+		}
+	],
+	"settings": {
+		"tailwindCSS.includeLanguages": {
+			"html": "html",
+			"typescript": "typescript"
+		},
+		"tailwindCSS.files.exclude": [
+			"**/.git/**",
+			"**/node_modules/**",
+			"**/.hg/**",
+			"**/.svn/**"
+		],
+		"tailwindCSS.emmetCompletions": true,
+		"debug.console.fontSize": 14,
+		"terminal.integrated.fontSize": 14,
+		"tailwindCSS.rootFontSize": 14
+	}
+}
